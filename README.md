@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Alexander Leyva Saturnino 👋
 
-<!--
-**alexander-leyva/Alexander-Leyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciencia de Datos con una trayectoria previa en diseño de modas. Combino pensamiento analítico con sensibilidad creativa para resolver problemas con datos.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías con las que trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python (pandas, numpy, matplotlib, seaborn), SQL, Streamlit, Tableau, Git y GitHub.
+
+## 📂 Proyectos destacados
+
+**[Stock de Mode](https://github.com/alexander-leyva/stock-de-mode)**
+Aplicación de inventario para marcas de moda: gestión de stock, piezas y alertas de bajo inventario, construida con Python, SQLite y Streamlit.
+
+**[Análisis de Exportaciones](https://github.com/alexander-leyva/analisis-exportaciones)**
+Análisis de exportaciones argentinas por provincia y rubro (2005-2020): limpieza de datos, base de datos SQL, modelo predictivo evaluado con validación honesta, y dashboard interactivo en Tableau Public.
+
+## 📫 Contacto
+
+Buscando oportunidades para aportar valor desde el análisis de datos y la mejora de procesos.
